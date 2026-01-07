@@ -17,19 +17,5 @@ This project blends *technology with philosophy*, presenting spiritual guidance 
 
 ---
 
-## 🛠️ Tech Stack
-
-- *HTML5* – Structure
-- *CSS3* – Styling & UI design
-- *JavaScript* – Logic & interactivity
-- *Vercel* – Deployment
-
----
-
-## 🚀 Live Demo
-
-🔗 *Live Website:*  
-https://gita-ai-divine-counselor.vercel.app  
-(Replace with your actual deployed link)
 
 ---
